@@ -1,0 +1,6 @@
+/gep
+*.pdf
+*.zip
+.DS_Store
+.idea/
+.vscode/
